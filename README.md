@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladislavlisin
 - 👀 I’m interested in interesting things
-- 🌱 I’m currently learning android dev
+- 🌱 I’m currently learning ds
 - 💞️ I’m looking for any possibilities
 - 📫 How to reach me 
 https://t.me/vladfoxin666
